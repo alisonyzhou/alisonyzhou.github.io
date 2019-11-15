@@ -22,7 +22,7 @@ I co-edited a 60-page magazine, *Montreal: An Anti Guide [LINK NEEDED]*, combini
 
 Subscribe to my newsletter, [chinese takeout](https://chinesetakeout.substack.com/), where I have written on [no name](https://chinesetakeout.substack.com/p/contains-numerous-beans), created a [venn diagram on millenial subcultures](https://chinesetakeout.substack.com/p/bad-august-summer), and of course, [impressions of NYC](https://chinesetakeout.substack.com/p/notes-from-the-city) from my brief time here.
 
-Some older blog posts: [Paolo Bacigalupi's *The Windup Girl*](./yum-yum-plastic-juice.md); [All That is Solid Melts Into Air, Marshall Berman](); [Source Image: Illegible](). 
+Some older blog posts: [Paolo Bacigalupi's *The Windup Girl*](./yum-yum-plastic-juice.md); [All That is Solid Melts Into Air, Marshall Berman](./Verweile-doch-du-bist-so-schoen.md); [Source Image: Illegible](). 
 
 
 ## Other Projects
