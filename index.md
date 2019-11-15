@@ -22,11 +22,14 @@ I co-edited a 60-page magazine, *Montreal: An Anti Guide [LINK NEEDED]*, combini
 
 Subscribe to my newsletter, [chinese takeout](https://chinesetakeout.substack.com/), where I have written on [no name](https://chinesetakeout.substack.com/p/contains-numerous-beans), created a [venn diagram on millenial subcultures](https://chinesetakeout.substack.com/p/bad-august-summer), and of course, [impressions of NYC](https://chinesetakeout.substack.com/p/notes-from-the-city) from my brief time here.
 
+Some older blog posts: [Paolo Bacigalupi's *The Windup Girl*](); [All That is Solid Melts Into Air, Marshall Berman](); [Source Image: Illegible](). 
+
+
 ## Other Projects
 
-**Chennai Mapping Project**: as a Research Assistant to Professor Bhavani Raman, I am designing an open site that combines data visualization, GIS, and immersive storytelling to provide data-driven tools for activists, environmental scientists, and fisherfolk at the Story of Ennore collective in Chennai, India. Using ArcMap and QGIS, I have georeferenced 16 historical map sheets from the British Library archives. These will be overlaid with maps from the 2015 South Indian Floods and present-day to convey the dramatic loss of waterbodies in the region: from 12.6 sq. km in 1893 to 3.2 sq. km. in 2017. At stake is the desire to make the state accountable for its land grab, which depends on the historical fidelity of this mapping project; even minute distortions between historical projections and today’s web-based standard weaken a legal case.
+[Chennai Mapping Project](./chennai-mapping-project.md): I used ArcMap and QGIS to georeference 16 historical map sheets from the British Library archives. These will be overlaid with maps from the 2015 South Indian Floods and present-day to convey the dramatic loss of waterbodies in the region: from 12.6 sq. km in 1893 to 3.2 sq. km. in 2017. At stake is the desire to make the state accountable for its land grab. 
 
-**Landmarks: Volume IV**: The fourth volume of Landmarks samples the cross-disciplinary and rigorous work being done by students in UofT's Department of Geography and Planning at the undergraduate level. As Editor-in-Chief, it was a privilege and a delight to review all submissions. Student interventions were drawn from all corners of geography, with scales, sites, and subjects ranging from the empire to the nation (Iran) to the city (Vancouver); from eco-homes, to milk, to a cut flower. The digital version of the journal can be accessed here. 
+[Landmarks: Volume IV](https://geography.utoronto.ca/wp-content/uploads/2019/09/Landmarks-2019-Journal-compressed.pdf): As Editor-in-Chief, it was a privilege and a delight to review all submissions. Student interventions were drawn from all corners of geography, with scales, sites, and subjects ranging from the empire to the nation (Iran) to the city (Vancouver); from eco-homes, to milk, to a cut flower.
 
 ## Contact
 
