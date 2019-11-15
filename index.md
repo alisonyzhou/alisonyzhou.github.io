@@ -5,7 +5,7 @@ layout: default
 
 ## About
 
-I am pursuing my M.A. in English and Comparative Literature at Columbia University and previously completed my undergraduate in Human Geography at the University of Toronto. I completed my Honours thesis under the supervision of Dr. Deborah Cowen, which sought to grasp the ambivalence of a death through Sadiya Hartman’s method of critical fabulation. Taking that the urban social is a hyphenation of the cultural and the technological, I narrated the social life of the opioid crisis through its infrastructure to implicate an entire web of punishment beyond the drug user.
+I am pursuing my M.A. in English and Comparative Literature at Columbia University and previously completed my Hons. B.A. in Human Geography at the University of Toronto. I completed my Honours thesis under the supervision of Dr. Deborah Cowen, which sought to grasp the ambivalence of a death through Sadiya Hartman’s method of critical fabulation. Taking that the urban social is a hyphenation of the cultural and the technological, I narrated the social life of the opioid crisis through its infrastructure to implicate an entire web of punishment beyond the drug user.
 
 I am currently exploring comparative work between literature, social theory, film and the urban; at the same time, I am invested in the study of spaces, cities and architecture. 
 
