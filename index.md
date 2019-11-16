@@ -5,7 +5,7 @@ layout: default
 
 ## About
 
-I am pursuing my M.A. in English and Comparative Literature at Columbia University and previously completed my Hons. B.A. in Human Geography at the University of Toronto. I completed my Honours thesis under the supervision of Dr. Deborah Cowen, which sought to grasp the ambivalence of a death through Sadiya Hartman’s method of critical fabulation. Taking that the urban social is a hyphenation of the cultural and the technological, I narrated the social life of the opioid crisis through its infrastructure to implicate an entire web of punishment beyond the drug user.
+I am pursuing my M.A. in English and Comparative Literature at Columbia University; I previously completed my Hons. B.A. in Human Geography at the University of Toronto. 
 
 I am currently exploring comparative work between literature, social theory, film and the urban; at the same time, I am invested in the study of spaces, cities and architecture. 
 
@@ -14,7 +14,9 @@ My M.A. essay will compare...
 
 ## Recent Writings
 
-I published [The Sweetening of Public Infrastructures, or Tangerine](http://societyandspace.org/2018/11/27/investigating-infrastructures-a-forum/) in the online site companion to the peer-review journal, *Environment & Planning D: Society and Space*. I map a poetics of infrastructure, forwarded by Lauren Berlant, by tracing the geographies of desire, intimacy, and labour in West Hollywood, Los Angeles based on the trajectories of two Black, trans, sex workers in the film Tangerine to reveal how infrastructures are agents of punishment, but also queered and refashioned into spaces of commoning and fugitivity. Accepting that feelings of optimism are politically determined and cathected to a future good life that fails to ever materialise, I offer that Tangerine is a gesture toward the possibility of repairing infrastructures and extending lifeworlds from within brokenness.
+I published [The Sweetening of Public Infrastructures, or Tangerine](http://societyandspace.org/2018/11/27/investigating-infrastructures-a-forum/) in the online site companion to the peer-review journal, *Environment & Planning D: Society and Space*. I mapped a poetics of infrastructure, forwarded by Lauren Berlant, by tracing the geographies of desire, intimacy, and labour in West Hollywood, Los Angeles. Accepting that feelings of optimism are politically determined and cathected to a future good life that fails to ever materialise, I offer that Tangerine is a gesture toward the possibility of repairing infrastructures and extending lifeworlds from within brokenness.
+
+My Honours thesis (supervised by Deborah Cowen) sought to grasp the ambivalence of a death through Sadiya Hartman’s method of critical fabulation. Taking that the urban social is a hyphenation of the cultural and the technological, I narrated the social life of the opioid crisis through its infrastructure to implicate an entire web of punishment beyond the drug user.
 
 I've also published two papers in student journals at U of Toronto: [Ghosts in the Canon: Logistics in Geographical Thought](https://geography.utoronto.ca/wp-content/uploads/2019/09/Landmarks-2019-Journal-compressed.pdf) in *Landmarks*, and [LINK].
 
